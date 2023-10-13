@@ -27,7 +27,7 @@ You can take the reference from below example and structure your information sim
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Basic Python",
-      "link" : "https://coursera.com/Basic-python",
+      "link" : "https://edx.org/Basic-python",
       "difficulty" : "beginner",
       "module_number" : 6,
       "certification" : "free"
@@ -37,7 +37,7 @@ You can take the reference from below example and structure your information sim
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Basic C",
-      "link" : "https://coursera.com/Basic-C",
+      "link" : "https://edx.org/Basic-C",
       "difficulty" : "beginner",
       "module_number" : 7,
       "certification" : "paid"
