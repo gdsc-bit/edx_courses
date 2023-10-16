@@ -1,24 +1,5 @@
 [
-    {
-      "id" :  1,
-      "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : "Basic Python",
-      "link" : "https://edx.org/Basic-python",
-      "difficulty" : "beginner",
-      "module_number" : 6,
-      "certification" : "free"
-    },
-    {
-      "id" :  2,
-      "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : "Basic C",
-      "link" : "https://edx.org/Basic-C",
-      "difficulty" : "beginner",
-      "module_number" : 7,
-      "certification" : "paid"
-    },
+
     {
       "id" :  3,
       "platform" : "edX",
