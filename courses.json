@@ -1,7 +1,7 @@
 [
 
     {
-      "id" :  3,
+      "id" :  1,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Python Basics for Data Science"
@@ -11,7 +11,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  4,
+      "id" :  2,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
