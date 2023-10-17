@@ -19,7 +19,15 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
-    
+    },
+    {
+        "id" :  40,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
+      "link" : "-programming-with-python?index=product&queryID=d98a6fbbfbc2d8451d89b12a652c2d17&position=2&results_level=first-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+",
+      "difficulty" : "beginner",
+      "module_number" : 9,
+      "certification" : "free"
     
   ]
