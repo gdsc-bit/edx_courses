@@ -19,7 +19,15 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
-    
+    },
+    {
+      "id" :  3,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "Android Material Design"
+      "link" : "https://www.udemy.com/course/android-material-design/",
+      "difficulty" : "beginner",
+      "module_number" : 43,
+      "certification" : "free"
     
   ]
