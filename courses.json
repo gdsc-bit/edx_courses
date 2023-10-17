@@ -1,4 +1,4 @@
-[
+ [
 
     {
       "id" :  1,
@@ -29,7 +29,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
      {
       "id" :  4,
       "platform" : "edX",
@@ -39,7 +39,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     {
       "id" :  5,
       "platform" : "edX",
@@ -49,8 +49,8 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
- {
+    },
+    {
       "id" :  6,
       "platform" : "edX",
       "free_course" : "yes",
@@ -59,5 +59,15 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }  
+    },
+    {
+      "id" :  7,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Introduction to Computer Science and Programming"
+      "link" : "https://www.edx.org/learn/computer-science/tokyo-institute-of-technology-introduction-to-computer-science-and-programming?index=product&queryID=33c3455fa5b95cca7f77bb3c1f17f0b4&position=17&results_level=second-level-results&term=&objectID=course-b511fe62-03ca-4d35-83b2-3a6337929962&campaign=Introduction+to+Computer+Science+and+Programming&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 10,
+      "certification" : "paid"
+    }
 ]
