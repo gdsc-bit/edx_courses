@@ -19,7 +19,17 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {"id" :  3,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
+      "link" : "https://www.edx.org/masters/online-master-artificial-intelligence-utaustinx?parent_component=new-on-edx&webview=false&campaign=Master+of+Science+in+Artificial+Intelligence+%28MSAI%29&source=edx&product_category=masters&category=degrees&medium=referral&lsrc=edx&version=edx&placement_url=https%3A%2F%2Fwww.edx.org%2F"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
     }
+    
     
     
   ]
