@@ -20,6 +20,16 @@
       "module_number" : 8,
       "certification" : "free"
     }
+    {
+     " id" :  5,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Analyzing Data with Excel"
+      "link" : "https://www.edx.org/learn/excel/ibm-analyzing-data-with-excel?index=product&queryID=ec7bb6b32ba2dcfde18404f584cbcfbd&position=8&results_level=second-level-results&term=&objectID=course-256bcc7d-5d2f-4053-b09a-22b48e058798&campaign=Analyzing+Data+with+Excel&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    }
+
     
     
   ]
