@@ -19,6 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+     {
+      "id" :  3,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Python Basics for Data Science"
+      "link" : https://www.classcentral.com/report/edx-top-courses/",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
     }
     
     
