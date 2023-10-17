@@ -19,7 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
-    
+    },
+    {
+      "id" :  15,
+      "platform" : "udemy",
+      "free_course" : "yes",
+      "course_name" : "Social Media For Business Strategy"
+      "link" : "https://www.udemy.com/course/social-media-for-business2/",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
     
   ]
