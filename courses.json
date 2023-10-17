@@ -19,7 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  4,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "SQL for data science"
+      "link" : "https://www.edx.org/learn/data-science/ibm-sql-for-data-science?index=product&queryID=f9e6b5490e9be5c9366c076fc84cdab8&position=4&results_level=first-level-results&term=Data+Sciences&objectID=course-2b907cc6-4020-4242-a369-38a48ae95f83&campaign=SQL+for+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
     }
-    
     
   ]
