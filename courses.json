@@ -14,10 +14,10 @@
       "id" :  2,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
-      "link" : "-programming-with-python?index=product&queryID=d98a6fbbfbc2d8451d89b12a652c2d17&position=2&results_level=first-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+",
+      "course_name" : "LehighX: Python Fundamentals for Business Analytics"
+      "link" : "https://www.edx.org/learn/computer-science/lehigh-university-python-fundamentals-for-business-analytics?index=product&objectID=course-6ecf17c1-263a-4f54-840e-9aae41d66897&webview=false&campaign=Python+Fundamentals+for+Business+Analytics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fpython",
       "difficulty" : "beginner",
-      "module_number" : 8,
+      "module_number" : 9,
       "certification" : "free"
     },
     {
