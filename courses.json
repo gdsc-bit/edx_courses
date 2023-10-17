@@ -15,11 +15,20 @@
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
-      "link" : "-programming-with-python?index=product&queryID=d98a6fbbfbc2d8451d89b12a652c2d17&position=2&results_level=first-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+",
+      "link" : "https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=301e814e9dba3cf2de3c2c37d669e18f&position=4&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+        "id" :  3,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
+      "link" : "https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=301e814e9dba3cf2de3c2c37d669e18f&position=4&linked_from=autocomplete&c=autocomplete",
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
     }
-    
     
   ]
