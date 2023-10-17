@@ -19,6 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  3,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
+      "link" : "https://www.edx.org/learn/react-native/ibm-developing-front-end-apps-with-react?index=product&queryID=9989a92111c8ff35cfa7c322ee250f1b&position=1&results_level=first-level-results&term=react+&objectID=course-0af1e674-790b-4aa6-89dc-80adbd89d479&campaign=Developing+Front+End+Apps+with+React&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "free"
     }
     
     
