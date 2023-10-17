@@ -60,4 +60,15 @@
       "module_number" : 8,
       "certification" : "free"
     }  
+     {
+      "id" :  7,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Explore game development and design"
+      "link" : "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?index=product&queryID=8ca972aef937ab42d9a1d79b94a96000&position=3&results_level=first-level-results&term=c&objectID=program-64b3c632-8610-4b17-9a48-9efee7fa3266&campaign=Computer+Science+for+Game+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    }  
+
 ]
