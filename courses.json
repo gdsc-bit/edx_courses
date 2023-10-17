@@ -19,6 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+         "id" :  4,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " Data Science: R Basics",
+      "link" : "https://www.edx.org/learn/r-programming/harvard-university-data-science-r-basics?index=product&queryID=f5920e0145acf92e7eaf6b7d05a27ed1&position=4&results_level=first-level-results&term=&objectID=course-91f52ef3-fa3f-4934-9d19-8d5a32635cd4&campaign=Data+Science%3A+R+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "beginnner",
+      "module_number" : 
+      "certification" : "free" 
     }
     
     
