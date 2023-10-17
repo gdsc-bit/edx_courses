@@ -20,6 +20,14 @@
       "module_number" : 8,
       "certification" : "free"
     }
+    {
+     " id" :  6,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "DavidsonX: Excel for Beginners"
+      "link" : "https://www.edx.org/learn/excel/davidson-college-excel-for-beginners?index=product&queryID=ec7bb6b32ba2dcfde18404f584cbcfbd&position=9&results_level=second-level-results&term=&objectID=course-1b1b7e50-ae85-4a5f-af09-ef2bf051383a&campaign=Excel+for+Beginners&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "certification" : "free"
     
     
   ]
