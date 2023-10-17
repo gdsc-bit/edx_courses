@@ -19,6 +19,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+        "id" :  3,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "HarvardX: CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
     }
     
     
