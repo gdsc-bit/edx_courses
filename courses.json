@@ -19,7 +19,15 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     
-    
+      "id" :  3,
+      "platform" : "coursera",
+      "free_course" : "yes",
+      "course_name" : "Introduction to Microsoft Excel"
+      "link" : "https://www.coursera.org/projects/introduction-microsoft-excel",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
   ]
