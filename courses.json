@@ -180,5 +180,16 @@
       "module_number" : 8,
       "certification" : "free"
     },
+    {
+      "id" :  19,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "UMD, USMx: Fundamentals of Digital Marketing"
+      "link" : "https://www.edx.org/learn/digital-marketing/the-university-of-maryland-college-park-fundamentals-of-digital-marketing?index=product&queryID=0de745ef2060675f260255b766c5cdd5&position=1&results_level=first-level-results&term=digital++marketing&objectID=course-37e67dee-6b18-4cc2-a489-247eb377fc71&campaign=Fundamentals+of+Digital+Marketing&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    
+    }
   ]
 
