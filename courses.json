@@ -129,7 +129,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  14,
+      "platform" : "edX",
+      "free_course" : "yes"
+      "course_name" : "Get Started with MongoDB CRUD Operations"
+      "link" : "https://www.edx.org/learn/computer-programming/ibm-execute-crud-operations-in-mongodb",
+      "difficulty" : "beginner",
+      "module_number" : 4,
+      "certification" : "paid"
     }
-    
   ]
 
