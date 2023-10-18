@@ -286,7 +286,7 @@
       "certification" : "free"
     },
     {
-      "id" :  3,
+      "id" :  30,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: Remote Work Revolution for Everyone"
@@ -294,8 +294,16 @@
       "difficulty" : "beginner",
       "module_number" : 6,
       "certification" : "paid"
-    } 
-  
-
+    },
+    {
+      "id" :  31,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "Complete Python Developer in 2023"
+      "link" : "https://www.udemy.com/course/complete-python-developer-zero-to-mastery/",
+      "difficulty" : "beginner",
+      "module_number" : 25,
+      "certification" : "paid"
+    }
   ]
 
