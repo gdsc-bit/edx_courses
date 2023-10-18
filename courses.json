@@ -276,5 +276,15 @@
       "difficulty" : "beginner",
       "certification" : "free"
     }
+{
+     " id" :  27,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "StanfordOnline: Databases: Introduction to Relational Databases"
+      "link" : "https://www.edx.org/learn/computer-programming/stanford-university-databases-1-introduction-to-relational-databases?irclickid=zusRdt3aQxyPTvmTwn3%3AJ1naUkFTEUW%3Afwna040&utm_source=affiliate&utm_medium=guru99&utm_campaign=Online%20Tracking%20Link_&utm_content=ONLINE_TRACKING_LINK&irgwc=1",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    }
+  
   ]
 
