@@ -275,8 +275,8 @@
       "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning?index=product&objectID=course-7e5958e8-d709-41ab-8f8c-4339f7a733c9&webview=false&campaign=Data+Science%3A+Machine+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
       "difficulty" : "beginner",
       "certification" : "free"
-    }
-{
+    },
+    {
      " id" :  29,
       "platform" : "edX",
       "free_course" : "yes",
@@ -284,7 +284,18 @@
       "link" : "https://www.edx.org/learn/computer-programming/stanford-university-databases-1-introduction-to-relational-databases?irclickid=zusRdt3aQxyPTvmTwn3%3AJ1naUkFTEUW%3Afwna040&utm_source=affiliate&utm_medium=guru99&utm_campaign=Online%20Tracking%20Link_&utm_content=ONLINE_TRACKING_LINK&irgwc=1",
       "difficulty" : "beginner",
       "certification" : "free"
-    }
+    },
+    {
+      "id" :  3,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Remote Work Revolution for Everyone"
+      "link" : "https://www.edx.org/learn/remote-work/harvard-university-remote-work-revolution-for-everyone?webview=false&campaign=Remote+Work+Revolution+for+Everyone&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    } 
   
+
   ]
 
