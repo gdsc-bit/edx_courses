@@ -141,7 +141,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  3,
+      "id" :  15,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Prompt Engineering and Advanced chatgpt"
@@ -151,7 +151,7 @@
       "certification" : "free"
     },
     {
-      "id" :  3,
+      "id" : 16 ,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: CS50's Introduction to Artificial Intelligence with Python"
@@ -161,7 +161,7 @@
       "certification" : "free"
     },
     {
-      "id" :  15,
+      "id" :  17,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "MITx: Management in Engineering: Strategy and Leadership"
@@ -169,6 +169,16 @@
       "difficulty" : "beginner",
       "module_number" : ,
       "certification" : "free"
-    }
+    },
+    {
+      "id" :  18,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Introduction to Data Science with Python"
+      "link" : "https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python?index=product&queryID=3346da07d1aded06ffe803661c242e76&position=2&results_level=first-level-results&term=Data+Sciences&objectID=course-c2004e8e-3882-4927-a883-1c5f39a28865&campaign=Introduction+to+Data+Science+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
   ]
 
