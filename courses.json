@@ -109,6 +109,16 @@
       "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning"
       "module_number" : 
       "certification" : "free"
+    },
+    {
+      "id" :  12,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "HarvardX: CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
     }
     
   ]
