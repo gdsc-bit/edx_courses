@@ -30,8 +30,8 @@
       "module_number" : 8,
       "certification" : "free"
     },
-    {
-      "id" :  3,
+    { 
+      "id" :  4,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "BerkeleyX: Blockchain Technology"
@@ -39,9 +39,9 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
-     {
-      "id" :  4,
+    },
+    {
+      "id" :  5,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "GTx: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics"
@@ -51,7 +51,7 @@
       "certification" : "free"
     },
     {
-      "id" :  5,
+      "id" :  6,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Fundamentals of C++"
@@ -60,8 +60,8 @@
       "module_number" : 8,
       "certification" : "free"
     },
- {
-      "id" :  6,
+    {
+      "id" :  7,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Explore game development and design"
@@ -69,9 +69,263 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    }, 
+    {
+      "id" :  8,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Introduction to ChatGPT"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+      "certification" : "Paid"  
     },
     {
-      "id" :  7,
+      "id" :  9,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Explore game development and design"
+      "link" : "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?index=product&queryID=8ca972aef937ab42d9a1d79b94a96000&position=3&results_level=first-level-results&term=c&objectID=program-64b3c632-8610-4b17-9a48-9efee7fa3266&campaign=Computer+Science+for+Game+Development&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+      "certification" : "Paid"
+    },
+    {
+      "id" :  10,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "BerkeleyX: Blockchain Technology"
+      "link" : "https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  11
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Data Science: Machine learning",
+      "difficulty" : "beginner",
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning"
+      "module_number" : 
+      "certification" : "free"
+    },
+    {
+      "id" :  12,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "HarvardX: CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    },
+    {
+      "id" :  13,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Python Basics for Data Science"
+      "link" : "https://www.edx.org/learn/python/ibm-python-basics-for-data-science?index=product&objectID=course-381a0046-5d78-4790-8776-74620d59f48e&webview=false&campaign=Python+Basics+for+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fpython",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  14,
+      "platform" : "edX",
+      "free_course" : "yes"
+      "course_name" : "Get Started with MongoDB CRUD Operations"
+      "link" : "https://www.edx.org/learn/computer-programming/ibm-execute-crud-operations-in-mongodb",
+      "difficulty" : "beginner",
+      "module_number" : 4,
+      "certification" : "paid"
+    },
+    {
+      "id" :  15,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Prompt Engineering and Advanced chatgpt"
+      "link" : "https://www.edx.org/learn/computer-programming/edx-advanced-chatgpt?webview=false&campaign=Prompt+Engineering+and+Advanced+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" : 16 ,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Artificial Intelligence with Python"
+      "link" : "https://www.edx.org/learn/-programming-with-python?index=product&queryID=d98a6fbbfbc2d8451d89b12a652c2d17&position=2&results_level=first-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  17,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MITx: Management in Engineering: Strategy and Leadership"
+      "link" : "https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership?index=product&objectID=course-47bff645-35a4-451b-9558-6918e631d907&webview=false&campaign=Management+in+Engineering%3A+Strategy+and+Leadership&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fleadership",
+      "difficulty" : "beginner",
+      "module_number" : ,
+      "certification" : "free"
+    },
+    {
+      "id" :  18,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Introduction to Data Science with Python"
+      "link" : "https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python?index=product&queryID=3346da07d1aded06ffe803661c242e76&position=2&results_level=first-level-results&term=Data+Sciences&objectID=course-c2004e8e-3882-4927-a883-1c5f39a28865&campaign=Introduction+to+Data+Science+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  19,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "UMD, USMx: Fundamentals of Digital Marketing"
+      "link" : "https://www.edx.org/learn/digital-marketing/the-university-of-maryland-college-park-fundamentals-of-digital-marketing?index=product&queryID=0de745ef2060675f260255b766c5cdd5&position=1&results_level=first-level-results&term=digital++marketing&objectID=course-37e67dee-6b18-4cc2-a489-247eb377fc71&campaign=Fundamentals+of+Digital+Marketing&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    },
+    {
+      "id" :  20,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Data science and machine learning"
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
+    {
+      "id" :  21,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "SQL for data science"
+      "link" : "https://www.edx.org/learn/data-science/ibm-sql-for-data-science?index=product&queryID=f9e6b5490e9be5c9366c076fc84cdab8&position=4&results_level=first-level-results&term=Data+Sciences&objectID=course-2b907cc6-4020-4242-a369-38a48ae95f83&campaign=SQL+for+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  22,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Data science R basics"
+      "link" : "https://www.edx.org/learn/data-science/ibm-introduction-to-data-science?index=product&queryID=3a4454a102c76c4f67e94492f5ee7a67&position=1&results_level=second-level-results&term=Data+Sciences&objectID=course-9bd10bfb-a8cd-4907-a26d-37fe3ea74919&campaign=Introduction+to+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  23,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Analyzing Data with excel"
+      "link" : "https://www.edx.org/learn/excel/ibm-analyzing-data-with-excel?index=product&queryID=0e1f5f560ac21b59f8c4a902b37229ef&position=8&results_level=second-level-results&term=&objectID=course-256bcc7d-5d2f-4053-b09a-22b48e058798&campaign=Analyzing+Data+with+Excel&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+     " id" :  24,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Analyzing Data with Excel"
+      "link" : "https://www.edx.org/learn/excel/ibm-analyzing-data-with-excel?index=product&queryID=ec7bb6b32ba2dcfde18404f584cbcfbd&position=8&results_level=second-level-results&term=&objectID=course-256bcc7d-5d2f-4053-b09a-22b48e058798&campaign=Analyzing+Data+with+Excel&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+     " id" :  25,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "DavidsonX: Excel for Beginners"
+      "link" : "https://www.edx.org/learn/excel/davidson-college-excel-for-beginners?index=product&queryID=ec7bb6b32ba2dcfde18404f584cbcfbd&position=9&results_level=second-level-results&term=&objectID=course-1b1b7e50-ae85-4a5f-af09-ef2bf051383a&campaign=Excel+for+Beginners&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+     " id" :  26,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Programming with Python"
+      "link" : "https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=18373305926e852c34f5d4b1c8fcad85&position=7&results_level=second-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+     " id" :  27,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Introduction to Web Development with HTML5, CSS3, and JavaScript"
+      "link" : "https://www.edx.org/learn/web-development/ibm-introduction-to-web-development-with-html5-css3-and-javascript?index=product&objectID=course-ae17a348-78ed-496e-a0b7-a1c7098a3ad0&webview=false&campaign=Introduction+to+Web+Development+with+HTML5%2C+CSS3%2C+and+JavaScript&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fjavascript",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+     " id" :  28,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Data Science: Machine Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning?index=product&objectID=course-7e5958e8-d709-41ab-8f8c-4339f7a733c9&webview=false&campaign=Data+Science%3A+Machine+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+     " id" :  29,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "StanfordOnline: Databases: Introduction to Relational Databases"
+      "link" : "https://www.edx.org/learn/computer-programming/stanford-university-databases-1-introduction-to-relational-databases?irclickid=zusRdt3aQxyPTvmTwn3%3AJ1naUkFTEUW%3Afwna040&utm_source=affiliate&utm_medium=guru99&utm_campaign=Online%20Tracking%20Link_&utm_content=ONLINE_TRACKING_LINK&irgwc=1",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+      "id" :  30,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Remote Work Revolution for Everyone"
+      "link" : "https://www.edx.org/learn/remote-work/harvard-university-remote-work-revolution-for-everyone?webview=false&campaign=Remote+Work+Revolution+for+Everyone&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    },
+    {
+     " id" :  31,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Fundamentals of C++"
+      "link" : "https://www.edx.org/learn/c-programming/ibm-fundamentals-of-c?index=product&objectID=course-251a4878-0711-4a8d-b1a4-38d96c032cc9&webview=false&campaign=Fundamentals+of+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fc-programming",
+      "difficulty" : "beginner",
+      "certification" : "free"
+    },
+    {
+      "id" :  32,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "Complete Python Developer in 2023"
+      "link" : "https://www.udemy.com/course/complete-python-developer-zero-to-mastery/",
+      "difficulty" : "beginner",
+      "module_number" : 25,
+      "certification" : "paid"
+    },
+    {
+      "id" :  33,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "edX: Introduction to ChatGPT"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free" 
+    },
+    {
+      "id" :  34,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : " Intro Course: Data Storytelling"
@@ -79,5 +333,5 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "paid"
-    }
-]
+    },
+  ]
