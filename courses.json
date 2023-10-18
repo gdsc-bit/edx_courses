@@ -159,6 +159,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  15,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MITx: Management in Engineering: Strategy and Leadership"
+      "link" : "https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership?index=product&objectID=course-47bff645-35a4-451b-9558-6918e631d907&webview=false&campaign=Management+in+Engineering%3A+Strategy+and+Leadership&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fleadership",
+      "difficulty" : "beginner",
+      "module_number" : ,
+      "certification" : "free"
     }
   ]
 
