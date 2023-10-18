@@ -39,7 +39,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
      {
       "id" :  4,
       "platform" : "edX",
@@ -49,7 +49,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     {
       "id" :  5,
       "platform" : "edX",
@@ -59,7 +59,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
  {
       "id" :  6,
       "platform" : "edX",
@@ -69,5 +69,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  7,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Introduction to ChatGPT"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+      "certification" : "Paid"
+        
     }  
 ]
