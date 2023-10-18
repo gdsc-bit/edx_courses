@@ -69,7 +69,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }, 
+    },
     {
       "id" :  8,
       "platform" : "edX",
@@ -315,23 +315,13 @@
       "certification" : "paid"
     },
     {
-      "id" :  33,
-      "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : "edX: Introduction to ChatGPT"
-      "link" : "https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
-      "difficulty" : "beginner",
-      "module_number" : 8,
-      "certification" : "free" 
-    },
-    {
-      "id" :  34,
-      "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : " Intro Course: Data Storytelling"
-      "link" : "https://www.edx.org/learn/business-administration/edx-intro-course-data-storytelling?webview=false&campaign=Intro+Course%3A+Data+Storytelling&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
-      "difficulty" : "beginner",
-      "module_number" : 4,
-      "certification" : "paid"
-    },
+        "id" : 33, 
+        "platform" : "edX",
+        "free_course" : "yes",
+        "course_name" : "HarvardX: CS50's Web Programming with Python and JavaScript"
+        "link" : "https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript",
+        "difficulty" : "intermediate",
+        "certification" : "paid"
+    }
   ]
+
