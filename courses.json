@@ -80,5 +80,16 @@
       "module_number" : 3,
       "certification" : "Paid"
         
-    }  
+    },
+    {
+      "id" :  8,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "BerkeleyX: Blockchain Technology"
+      "link" : "https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+]
 ]
