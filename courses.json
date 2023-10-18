@@ -119,7 +119,17 @@
       "difficulty" : "beginner",
       "module_number" : 6,
       "certification" : "paid"
-    }
+    },
+    {
+      "id" :  13,
+      "platform" : "udemy",
+      "free_course" : "no",
+      "course_name" : "AZ-900 Exam Prep: Mastering Azure Fundamentals"
+      "link" : "https://www.udemy.com/course/mastering-azure-fundamentals/",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    },
     
   ]
 
