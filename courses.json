@@ -31,7 +31,7 @@
       "certification" : "free"
     },
     {
-      "id" :  3,
+      "id" :  4,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "BerkeleyX: Blockchain Technology"
@@ -41,7 +41,7 @@
       "certification" : "free"
     },
      {
-      "id" :  4,
+      "id" :  5,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "GTx: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics"
@@ -51,7 +51,7 @@
       "certification" : "free"
     },
     {
-      "id" :  5,
+      "id" :  6,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Fundamentals of C++"
@@ -61,7 +61,7 @@
       "certification" : "free"
     },
     {
-      "id" :  6,
+      "id" :  7,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Explore game development and design"
@@ -71,7 +71,7 @@
       "certification" : "free"
     },
     {
-      "id" :  7,
+      "id" :  8,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Introduction to ChatGPT"
@@ -81,7 +81,7 @@
       "certification" : "Paid"  
     },
     {
-      "id" :  8,
+      "id" :  9,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "Explore game development and design"
@@ -91,7 +91,7 @@
       "certification" : "Paid"
     },
     {
-      "id" :  9,
+      "id" :  10,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "BerkeleyX: Blockchain Technology"
@@ -99,5 +99,17 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
+    },
+    {
+      "id" :  11
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Data Science: Machine learning",
+      "difficulty" : "beginner",
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning"
+      "module_number" : 
+      "certification" : "free"
     }
-]
+    
+  ]
+
