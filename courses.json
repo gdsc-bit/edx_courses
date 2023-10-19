@@ -30,7 +30,7 @@
       "module_number" : 8,
       "certification" : "free"
     },
-    { 
+    {
       "id" :  4,
       "platform" : "edX",
       "free_course" : "yes",
@@ -99,7 +99,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    },
+    }, 
     {
       "id" :  11
       "platform" : "edX",
@@ -353,5 +353,16 @@
      "difficulty" : "beginner",
      "module_number" : 6,
      "certification" : "paid"
-     }
+     },
+     {
+      "id" :  37,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Beginners guide to cybersecurity"
+      "link" : "https://www.edx.org/learn/cybersecurity/ibm-beginners-guide-to-cybersecurity?index=product&queryID=846f1db1d1260d90c06e7b063cae15c2&position=2&results_level=first-level-results&term=cyber+security&objectID=course-cc2b4496-bccb-4ddc-b6d9-a6ad7d05d28f&campaign=Beginners+Guide+to+Cybersecurity&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 4,
+      "certification" : "free"
+    } 
   ]
+
