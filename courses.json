@@ -384,5 +384,15 @@
       "module_number" : 8,
       "certification" : "paid"
     },
+    {
+      "id" :  40,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " six sigma"
+      "link" : "https://www.edx.org/learn/six-sigma/technische-universitat-munchen-six-sigma-analyze-improve-control?index=product&queryID=fae78b22930e7366ffe8c720e0785d40&position=6&results_level=second-level-results&term=&objectID=course-50f33f6f-be42-43d2-9ccc-d5c5aedbf4fd&campaign=Six+Sigma%3A+Analyze%2C+Improve%2C+Control&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
   ]
 
