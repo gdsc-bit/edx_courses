@@ -423,13 +423,23 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }, 
+    },
     {
       "id" :  44,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "StanfordOnline: Introduction to Haptics"
       "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    }
+    {
+      "id" :  45,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "certificate program in health care management"
+      "link" : "https://online-er.isb.edu/certificate-programme-in-healthcare-management/index.php?utm_source=edx&utm_medium=site&utm_campaign=edx_site&webview=false&campaign=Certificate+Programme+in+Healthcare+Management&source=emeritus&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F"
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
