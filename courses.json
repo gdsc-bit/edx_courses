@@ -365,7 +365,7 @@
       "certification" : "free"
     }
     {
-      "id" :  41,
+      "id" :  38,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "statistics and R"
@@ -385,7 +385,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  42,
+      "id" :  40,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : " six sigma"
