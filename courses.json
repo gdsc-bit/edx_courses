@@ -364,5 +364,15 @@
       "module_number" : 4,
       "certification" : "free"
     } 
+    {
+      "id" :  38,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " Data Science Machine learning"
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning?index=product&queryID=0128ce4bde89dc786d46210d74273607&position=3&results_level=first-level-results&term=&objectID=course-7e5958e8-d709-41ab-8f8c-4339f7a733c9&campaign=Data+Science%3A+Machine+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
   ]
 
