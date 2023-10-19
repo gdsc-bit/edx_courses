@@ -4,11 +4,11 @@
       "id" :  1,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "Python Basics for Data Science"
+      "course_name" : " java Basics for Data Science"
       "link" : "https://www.edx.org/learn/python/ibm-python-basics-for-data-science?webview=false&campaign=Python+Basics+for+Data+Science&source=edx&product_category=course",
       "difficulty" : "beginner",
       "module_number" : 8,
-      "certification" : "paid"
+      "certification" : "free"
     },
     {
       "id" :  2,
