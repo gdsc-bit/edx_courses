@@ -413,6 +413,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
+    },
+    {
+      "id" :  43,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: NoSQL Database Basics"
+      "link" : "https://www.edx.org/learn/nosql/ibm-nosql-database-basics?index=product&queryID=32506783b9482f67981efff1f1a661c5&position=1&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
     }
   ]
 
