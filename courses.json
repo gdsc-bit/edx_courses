@@ -14,9 +14,9 @@
       "id" :  2,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "LehighX: Python Fundamentals for Business Analytics"
+      "course_name" : "LehighX: Python Fundamentals for management Analytics"
       "link" : "https://www.edx.org/learn/computer-science/lehigh-university-python-fundamentals-for-business-analytics?index=product&objectID=course-6ecf17c1-263a-4f54-840e-9aae41d66897&webview=false&campaign=Python+Fundamentals+for+Business+Analytics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fpython",
-      "difficulty" : "beginner",
+      "difficulty" : "advanced",
       "module_number" : 9,
       "certification" : "free"
     },
@@ -24,7 +24,7 @@
       "id" :  3,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "edX: How to Learn Online"
+      "course_name" : "edX: How to Learn programming Online"
       "link" : "-programming-with-python?index=product&queryID=d98a6fbbfbc2d8451d89b12a652c2d17&position=2&results_level=first-level-results&term=&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+",
       "difficulty" : "beginner",
       "module_number" : 8,
@@ -41,7 +41,7 @@
       "certification" : "free"
     },
     {
-      "id" :  5,
+      "id" :  7,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "GTx: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics"
