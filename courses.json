@@ -363,6 +363,16 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "free"
+    }
+    {
+      "id" :  41,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "statistics and R"
+      "link" :" https://www.edx.org/learn/r-programming/harvard-university-statistics-and-r?index=product&queryID=fda8e231ead4342e7f930b6654dd7bbe&position=10&results_level=second-level-results&term=&objectID=course-94796bd2-6c39-4189-96ac-fce68e613c57&campaign=Statistics+and+R&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "beginner",
+      "module_number" : 4,
+      "certification" : "free"
     } 
     {
       "id" :  39,
