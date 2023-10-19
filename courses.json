@@ -403,6 +403,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    },
+    }, 
+    {
+      "id" :  42,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "BerkeleyX: Entrepreneurship For All (Part I): The UC Berkeley Startup Guide for students by Silicon Valley Insiders"
+      "link" : "https://www.edx.org/learn/entrepreneurship/university-of-california-berkeley-entrepreneurship-for-all-part-i-idea-to-launch?index=product&queryID=50882e25e1d69dcd5437bceab9c55a68&position=4&results_level=first-level-results&term=bootstrap&objectID=course-b6c650d4-d6a4-4ddd-b299-8400e1156a26&campaign=Entrepreneurship+For+All+%28Part+I%29%3A+The+UC+Berkeley+Startup+Guide+for+students+by+Silicon+Valley+Insiders&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }
   ]
 
