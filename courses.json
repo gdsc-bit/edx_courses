@@ -394,5 +394,15 @@
       "module_number" : 8,
       "certification" : "paid"
     },
+     {
+      "id" :  41,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Django Application Development with SQL and Databases"
+      "link" : "https://www.edx.org/learn/django/ibm-django-application-development-with-sql-and-databases?index=product&queryID=8f2b5192ec1a47deb13752384ca211af&position=3&results_level=first-level-results&term=bootstrap&objectID=course-7e2be72d-1853-49d5-8f19-4e62e857625a&campaign=Django+Application+Development+with+SQL+and+Databases&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
   ]
 
