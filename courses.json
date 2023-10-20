@@ -363,7 +363,7 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "free"
-    }
+    },
     {
       "id" :  38,
       "platform" : "edX",
@@ -373,7 +373,7 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "free"
-    } 
+    }, 
     {
       "id" :  39,
       "platform" : "edX",
@@ -428,10 +428,10 @@
       "id" :  44,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "StanfordOnline: Introduction to Haptics"
-      "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "course_name" : "Ethics in AI and Data Science"
+      "link" : "https://www.edx.org/learn/business-ethics/the-linux-foundation-ethics-in-ai-and-data-science?index=product&objectID=course-c04e58c0-ad0a-40c8-8c63-e556cd55c7f2&webview=false&campaign=Ethics+in+AI+and+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence"
       "difficulty" : "beginner",
-      "module_number" : 8,
+      "module_number" : 12,
       "certification" : "free"
     },
     {
@@ -455,7 +455,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  48,
+      "id" :  47,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : " IBM: Basic Network and Database Security"
@@ -465,7 +465,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  40,
+      "id" :  48,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "edX: VideoX: Creating Video for the edX Platform"
@@ -475,7 +475,7 @@
       "certification" : "paid"
    },
    {
-      "id" :  41,
+      "id" : 49,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : " MITx: Machine Learning with Python: from Linear Models to Deep Learning"
@@ -483,6 +483,16 @@
       "difficulty" : "advanced",
       "module_number" : 11,
       "certification" : "paid"
+    },
+    {
+      "id" : 50,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "StanfordOnline: Introduction to Haptics"
+      "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
     }
   ]
 
