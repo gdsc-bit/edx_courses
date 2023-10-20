@@ -423,7 +423,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }, 
+    },
     {
       "id" :  44,
       "platform" : "edX",
@@ -494,8 +494,18 @@
       "module_number" : 8,
       "certification" : "free"
     },
+    {
+      "id" :  51,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "certificate program in health care management"
+      "link" : "https://online-er.isb.edu/certificate-programme-in-healthcare-management/index.php?utm_source=edx&utm_medium=site&utm_campaign=edx_site&webview=false&campaign=Certificate+Programme+in+Healthcare+Management&source=emeritus&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
      {
-      "id" :  45,
+      "id" :  52,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : "IBM: NoSQL Database Basics"
@@ -505,7 +515,7 @@
       "certification" : "paid"
     },
     {
-     "id" :  46,
+     "id" :  53,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : "Complete Python Developer in 2023"
@@ -513,6 +523,6 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    },    
+    }
   ]
 
