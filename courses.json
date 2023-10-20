@@ -394,7 +394,7 @@
       "module_number" : 8,
       "certification" : "paid"
     },
-     {
+    {  
       "id" :  41,
       "platform" : "edX",
       "free_course" : "yes",
@@ -433,7 +433,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     {
       "id" :  45,
       "platform" : "edX",
@@ -443,7 +443,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     {
       "id" :  46,
       "platform" : "edX",
@@ -453,7 +453,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }
+    },
     {
       "id" :  48,
       "platform" : "edX",
@@ -463,9 +463,16 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }
-    
-    
-    
+    },
+    {
+      "id" :  40,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "edX: VideoX: Creating Video for the edX Platform"
+      "link" : "https://www.edx.org/learn/education/edx-videox-creating-video-for-the-edx-platform?webview=false&campaign=VideoX%3A+Creating+Video+for+the+edX+Platform&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+   }
   ]
 
