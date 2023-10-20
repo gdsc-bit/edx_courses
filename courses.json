@@ -394,6 +394,76 @@
       "module_number" : 8,
       "certification" : "paid"
     },
+    {  
+      "id" :  41,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Django Application Development with SQL and Databases"
+      "link" : "https://www.edx.org/learn/django/ibm-django-application-development-with-sql-and-databases?index=product&queryID=8f2b5192ec1a47deb13752384ca211af&position=3&results_level=first-level-results&term=bootstrap&objectID=course-7e2be72d-1853-49d5-8f19-4e62e857625a&campaign=Django+Application+Development+with+SQL+and+Databases&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    }, 
+    {
+      "id" :  42,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "BerkeleyX: Entrepreneurship For All (Part I): The UC Berkeley Startup Guide for students by Silicon Valley Insiders"
+      "link" : "https://www.edx.org/learn/entrepreneurship/university-of-california-berkeley-entrepreneurship-for-all-part-i-idea-to-launch?index=product&queryID=50882e25e1d69dcd5437bceab9c55a68&position=4&results_level=first-level-results&term=bootstrap&objectID=course-b6c650d4-d6a4-4ddd-b299-8400e1156a26&campaign=Entrepreneurship+For+All+%28Part+I%29%3A+The+UC+Berkeley+Startup+Guide+for+students+by+Silicon+Valley+Insiders&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
+    {
+      "id" :  43,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: NoSQL Database Basics"
+      "link" : "https://www.edx.org/learn/nosql/ibm-nosql-database-basics?index=product&queryID=32506783b9482f67981efff1f1a661c5&position=1&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }, 
+    {
+      "id" :  44,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "StanfordOnline: Introduction to Haptics"
+      "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  45,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " Learn Linux Command Lines"
+      "link" : "https://www.edx.org/learn/linux/edx-try-it-learn-linux-command-line?webview=false&campaign=Try+It%3A+Learn+Linux+Command+Line&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  46,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " ArmEducationX: Embedded Systems Essentials with Arm: Getting Started"
+      "link" : "https://www.edx.org/learn/embedded-systems/arm-education-embedded-systems-essentials-with-arm-getting-started?index=product&queryID=e61999dbc738e3e302d1101d4b645ff6&position=3&results_level=first-level-results&term=&objectID=course-65433bff-efc4-4e62-8a91-af05dc37802a&campaign=Embedded+Systems+Essentials+with+Arm%3A+Getting+Started&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
+    {
+      "id" :  48,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " IBM: Basic Network and Database Security"
+      "link" : "https://www.edx.org/learn/network-security/ibm-basic-network-and-database-security?index=product&queryID=9cb9421cf02b1ac0a4ba2a67280fc1d9&position=8&results_level=second-level-results&term=database&objectID=course-261191da-df4a-480e-b51e-574c1311df9a&campaign=Basic+Network+and+Database+Security&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
     {
       "id" :  40,
       "platform" : "edX",
@@ -403,6 +473,6 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }
+   }
   ]
 
