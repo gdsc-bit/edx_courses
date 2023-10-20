@@ -434,5 +434,15 @@
       "module_number" : 8,
       "certification" : "free"
     }
+    {
+      "id" :  45,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " Learn Linux Command Lines"
+      "link" : "https://www.edx.org/learn/linux/edx-try-it-learn-linux-command-line?webview=false&campaign=Try+It%3A+Learn+Linux+Command+Line&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    }
   ]
 
