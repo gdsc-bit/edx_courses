@@ -444,5 +444,16 @@
       "module_number" : 8,
       "certification" : "free"
     }
+    {
+      "id" :  46,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " ArmEducationX: Embedded Systems Essentials with Arm: Getting Started"
+      "link" : "https://www.edx.org/learn/embedded-systems/arm-education-embedded-systems-essentials-with-arm-getting-started?index=product&queryID=e61999dbc738e3e302d1101d4b645ff6&position=3&results_level=first-level-results&term=&objectID=course-65433bff-efc4-4e62-8a91-af05dc37802a&campaign=Embedded+Systems+Essentials+with+Arm%3A+Getting+Started&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }
+    
   ]
 
