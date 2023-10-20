@@ -454,6 +454,18 @@
       "module_number" : 8,
       "certification" : "paid"
     }
+    {
+      "id" :  48,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " IBM: Basic Network and Database Security"
+      "link" : "https://www.edx.org/learn/network-security/ibm-basic-network-and-database-security?index=product&queryID=9cb9421cf02b1ac0a4ba2a67280fc1d9&position=8&results_level=second-level-results&term=database&objectID=course-261191da-df4a-480e-b51e-574c1311df9a&campaign=Basic+Network+and+Database+Security&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }
+    
+    
     
   ]
 
