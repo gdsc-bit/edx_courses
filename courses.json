@@ -464,6 +464,16 @@
       "module_number" : 8,
       "certification" : "paid"
     }
+    {
+      "id" :  49,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " IBM: Using GPUs to Scale and Speed-up Deep Learning"
+      "link" : "https://www.edx.org/learn/data-analysis/ibm-using-gpus-to-scale-and-speed-up-deep-learning",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }
     
     
     
