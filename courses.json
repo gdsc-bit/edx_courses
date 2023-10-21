@@ -363,7 +363,7 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "free"
-    }
+    },
     {
       "id" :  38,
       "platform" : "edX",
@@ -373,7 +373,7 @@
       "difficulty" : "beginner",
       "module_number" : 4,
       "certification" : "free"
-    } 
+    }, 
     {
       "id" :  39,
       "platform" : "edX",
@@ -394,7 +394,7 @@
       "module_number" : 8,
       "certification" : "paid"
     },
-     {
+    {  
       "id" :  41,
       "platform" : "edX",
       "free_course" : "yes",
@@ -423,17 +423,17 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }, 
+    },
     {
       "id" :  44,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "StanfordOnline: Introduction to Haptics"
-      "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "course_name" : "Ethics in AI and Data Science"
+      "link" : "https://www.edx.org/learn/business-ethics/the-linux-foundation-ethics-in-ai-and-data-science?index=product&objectID=course-c04e58c0-ad0a-40c8-8c63-e556cd55c7f2&webview=false&campaign=Ethics+in+AI+and+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence"
       "difficulty" : "beginner",
-      "module_number" : 8,
+      "module_number" : 12,
       "certification" : "free"
-    }
+    },
     {
       "id" :  45,
       "platform" : "edX",
@@ -443,7 +443,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    }
+    },
     {
       "id" :  46,
       "platform" : "edX",
@@ -453,9 +453,9 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
-    }
+    },
     {
-      "id" :  48,
+      "id" :  47,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : " IBM: Basic Network and Database Security"
@@ -463,7 +463,77 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "paid"
+    },
+    {
+      "id" :  48,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "edX: VideoX: Creating Video for the edX Platform"
+      "link" : "https://www.edx.org/learn/education/edx-videox-creating-video-for-the-edx-platform?webview=false&campaign=VideoX%3A+Creating+Video+for+the+edX+Platform&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+   },
+   {
+      "id" : 49,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " MITx: Machine Learning with Python: from Linear Models to Deep Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&queryID=969992952fed2fb784831e6208d55af8&position=1&results_level=first-level-results&term=&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+      "difficulty" : "advanced",
+      "module_number" : 11,
+      "certification" : "paid"
+    },
+    {
+      "id" : 50,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "StanfordOnline: Introduction to Haptics"
+      "link" : "https://www.edx.org/learn/robotics/stanford-university-introduction-to-haptics?index=product&queryID=3f42b18455db2e8945f04095c51a7f5f&position=2&results_level=first-level-results&term=http&objectID=course-36a734d1-ad9b-44d6-b226-c38f6aac0caa&campaign=Introduction+to+Haptics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  51,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "certificate program in health care management"
+      "link" : "https://online-er.isb.edu/certificate-programme-in-healthcare-management/index.php?utm_source=edx&utm_medium=site&utm_campaign=edx_site&webview=false&campaign=Certificate+Programme+in+Healthcare+Management&source=emeritus&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F"
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+     {
+      "id" :  52,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "IBM: NoSQL Database Basics"
+      "link" :"https://www.edx.org/learn/nosql/ibm-nosql-database-basics?index=product&queryID=32506783b9482f67981efff1f1a661c5&position=1&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
+    {
+     "id" :  53,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "Complete Python Developer in 2023"
+      "link" :"https://www.edx.org/learn/artificial-intelligence/edx-introduction-to-chatgpt?webview=false&campaign=Introduction+to+ChatGPT&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fschool%2Fedx",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
     }
+    {
+      "id" :  54,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IMD: Cybersecurity Risk and Strategy"
+      "link" : "https://www.edx.org/executive-education/institute-for-management-development-imd-cybersecurity-risk-and-strategy?parent_component=new-on-edx&webview=false&campaign=Cybersecurity+Risk+and+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
     {
       "id" :  49,
       "platform" : "edX",
