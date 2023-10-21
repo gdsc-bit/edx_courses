@@ -544,5 +544,15 @@
       "module_number" : 8,
       "certification" : "paid"
     }
+    {
+      "id" :  50,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : " IBM: Relational Database BasicsL"
+      "link" : "https://www.edx.org/learn/relational-databases/ibm-relational-database-basics?index=product&objectID=course-d514bd2d-2d10-41da-a069-2eb1490f39ef&webview=false&campaign=Relational+Database+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fsql",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
+    }
   ]
 
