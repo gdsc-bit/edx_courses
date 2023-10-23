@@ -613,6 +613,15 @@
       "difficulty" : "beginner",
       "module_number" : 18,
       "certification" : "paid"
-   }
-
+   },
+    {
+      "id" :  63,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : " HarvardX: Cybersecurity: Managing Risk in the Information Age"
+      "link" : "https://www.edx.org/executive-education/harvard-university-cybersecurity-managing-risk-in-the-information-age?parent_component=new-on-edx&webview=false&campaign=Cybersecurity%3A+Managing+Risk+in+the+Information+Age&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
+    }
   ]
