@@ -593,5 +593,15 @@
       "difficulty" : "beginner",
       "module_number" : 11,
       "certification" : "paid"
-    }
+    },
+  {
+   "id" :  59,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : " IMD: Cybersecurity Risk and Strategy"
+      "link" : "https://www.edx.org/executive-education/institute-for-management-development-imd-cybersecurity-risk-and-strategy?parent_component=new-on-edx&webview=false&campaign=Cybersecurity+Risk+and+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 18,
+      "certification" : "paid"
+  }
   ]
