@@ -593,5 +593,14 @@
       "difficulty" : "beginner",
       "module_number" : 11,
       "certification" : "paid"
+    },
+  {"id" :  60,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : " Oxford Saïd: Oxford Artificial Intelligence Programme"
+      "link" : "https://www.edx.org/executive-education/university-of-oxford-oxford-artificial-intelligence-programme?parent_component=new-on-edx&webview=false&campaign=Oxford+Artificial+Intelligence+Programme&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 18,
+      "certification" : "paid"
     }
   ]
