@@ -623,5 +623,15 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
+    },
+   {
+      "id" :  64,
+      "platform" : "edX",
+      "free_course" : "Yes",
+      "course_name" : " HarvardX: Data Science: Visualization"
+      "link" : "https://www.edx.org/learn/data-visualization/harvard-university-data-science-visualization",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "paid"
     }
   ]
