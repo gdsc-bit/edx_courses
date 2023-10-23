@@ -585,7 +585,7 @@
       "certification" : "paid"
     },
     {
-      "id" :  59,
+      "id" :  60,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : " IBM: Professional Certificate in Full Stack Developer"
@@ -594,8 +594,28 @@
       "module_number" : 11,
       "certification" : "paid"
     },
-  {
-   "id" :  60,
+    {
+     "id" :  61,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : " Oxford Saïd: Oxford Artificial Intelligence Programme"
+      "link" : "https://www.edx.org/executive-education/university-of-oxford-oxford-artificial-intelligence-programme?parent_component=new-on-edx&webview=false&campaign=Oxford+Artificial+Intelligence+Programme&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 18,
+      "certification" : "paid"
+    },
+    {
+      "id" :  62,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : " IMD: Cybersecurity Risk and Strategy"
+      "link" : "https://www.edx.org/executive-education/institute-for-management-development-imd-cybersecurity-risk-and-strategy?parent_component=new-on-edx&webview=false&campaign=Cybersecurity+Risk+and+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
+      "difficulty" : "beginner",
+      "module_number" : 18,
+      "certification" : "paid"
+   },
+    {
+      "id" :  63,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : " HarvardX: Cybersecurity: Managing Risk in the Information Age"
@@ -603,5 +623,5 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
-  }
+    }
   ]
