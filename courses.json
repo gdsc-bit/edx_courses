@@ -584,14 +584,13 @@
       "module_number" : 4,
       "certification" : "paid"
     },
-    {
-      "id" :  59,
+  {"id" :  60,
       "platform" : "edX",
       "free_course" : "no",
-      "course_name" : " IBM: Professional Certificate in Full Stack Developer"
-      "link" : "https://www.edx.org/certificates/professional-certificate/ibm-full-stack-developer?webview=false&campaign=Full+Stack+Developer&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fcertificates%2Fprofessional-certificate",
+      "course_name" : "University of Cape Town: IT Management"
+      "link" : "https://www.edx.org/executive-education/university-of-cape-town-it-management?parent_component=new-on-edx&webview=false&campaign=IT+Management&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2F",
       "difficulty" : "beginner",
-      "module_number" : 11,
+      "module_number" : 10,
       "certification" : "paid"
-    }
+  }
   ]
