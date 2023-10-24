@@ -673,5 +673,15 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
+     },
+      "id" :  69,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "NUS: Natural Language Processing: Foundations"
+      "link" : "https://www.edx.org/learn/natural-language-processing/the-national-university-of-singapore-natural-language-processing-foundations?index=product&queryID=be55a7c502c94489203fd6b911f3d5b4&position=3&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
      }
+  
   ]
