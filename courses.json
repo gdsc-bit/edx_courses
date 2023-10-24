@@ -643,5 +643,15 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
+     },
+    {
+      "id" :  66,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "MIT CSAIL: Human-Computer Interaction for User Experience Design"
+      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-human-computer-interaction-for-user-experience-design?index=product&queryID=39464b9c4ff038c203348bffd640cbdd&position=1&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
      }
   ]
