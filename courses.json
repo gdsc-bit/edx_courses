@@ -653,5 +653,15 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
+     },
+     {
+      "id" :  67,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "MIT SA+P: Data Science in Real Estate"
+      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-data-science-in-real-estate?index=product&queryID=b7ec2a8f1bf2b5937f75d10ca61a6635&position=3&results_level=first-level-results&term=data+science&objectID=course-d14aab4d-81a2-4fc7-8b27-f799ec3fcc7e&campaign=Data+Science+in+Real+Estate&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
      }
   ]
