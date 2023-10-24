@@ -663,5 +663,15 @@
       "difficulty" : "beginner",
       "module_number" : 19,
       "certification" : "paid"
+     },
+     {
+      "id" :  68,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "Databricks: Large Language Models: Application through Production"
+      "link" : "https://www.edx.org/learn/computer-science/databricks-large-language-models-application-through-production?index=product&queryID=a5cc19c7ecacffafa332482a1260cfc1&position=2&results_level=first-level-results&term=Large+Language&objectID=course-13310e8e-d432-4b05-bbfd-accb5ccea3a3&campaign=Large+Language+Models%3A+Application+through+Production&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
      }
   ]
