@@ -191,5 +191,16 @@
       "certification" : "paid"
     
     }
-  ]
+ {
+      "id" :  20,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "MITx: Machine Learning for Healthcare"
+      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-for-healthcare?index=product&queryID=2cf622388ad84b13b7607c8f6e39b15e&position=21&results_level=second-level-results&term=&objectID=course-efa7fcd0-c347-4292-9731-fdb66ee789b9&campaign=Machine+Learning+for+Healthcare&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "advanced",
+      "module_number" : 6,
+      "certification" : "paid"
+    
+    }
+]
 
