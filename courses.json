@@ -684,7 +684,7 @@
       "module_number" : 19,
       "certification" : "paid"
      }
-       {
+     {
       "id" :  70,
       "platform" : "edX",
       "free_course" : "yes",
@@ -694,8 +694,7 @@
       "module_number" : 5,
       "certification" : "paid"
      },
-
-    {
+     {
       "id" :  71,
       "platform" : "edX",
       "free_course" : "no",
@@ -705,7 +704,7 @@
       "module_number" : 6,
       "certification" : "paid"
     },
-   {
+    {
       "id" :  72,
       "platform" : "edX",
       "free_course" : "yes",
@@ -725,6 +724,94 @@
       "module_number" : 4,
       "certification" : "free"
     }
-  
+    {
+      "id" :  74,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "University of Connecticut: Cybersecurity Boot Camp"
+      "link" : "https://www.edx.org/boot-camps/cybersecurity/university-of-connecticut-cybersecurity-boot-camp?index=product&queryID=bb87cedf20afa62201f6acc5df5d3853&position=3&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "advanced",
+      "module_number" : 6,
+      "certification" : "no"
+    },
+    {
+      "id" :  75,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: Data Science: Machine Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning?index=product&queryID=1f346bece4416b421cf0abf4193d55f5&position=2&results_level=first-level-results&term=machine+learning+&objectID=course-7e5958e8-d709-41ab-8f8c-4339f7a733c9&campaign=Data+Science%3A+Machine+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    }
+    },
+    {
+      "id" :  76,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Machine Learning with Python: A Practical Introduction"
+      "link" : "https://www.edx.org/learn/machine-learning/ibm-machine-learning-with-python-a-practical-introduction?index=product&queryID=381128daf40914278f3dd4a54a39b1b4&position=3&results_level=first-level-results&term=machine+learning+&objectID=course-34ea79ed-b0c4-4a12-aeb6-64a5b507607a&campaign=Machine+Learning+with+Python%3A+A+Practical+Introduction&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    }
+    {
+      "id" :  77,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Introduction to Linux System Administration with IBM Power Systems"
+      "link" :"https://www.edx.org/learn/linux/ibm-introduction-to-linux-system-administration-with-ibm-power-systems?index=product&objectID=course-b0bcb9ef-279e-48e0-b97c-86a2f217feea&webview=false&campaign=Introduction+to+Linux+System+Administration+with+IBM+Power+Systems&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Flinux",
+      "module_number" : 6,
+      "certification" : "free"
+    }
+   {
+      "id" :  78,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "University of Cape Town: Graphic Design"
+      "link" : "https://www.edx.org/executive-education/university-of-cape-town-graphic-design?index=product&queryID=5c6c099e180e57e63259053c401605fd&position=1&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginners",
+      "module_number" : 10,
+      "certification" : "paid"
+    }
+    {
+      "id" :  79,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "GTx: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics"
+      "link" : "https://www.edx.org/learn/java/the-georgia-institute-of-technology-introduction-to-object-oriented-programming-with-java-i-foundations-and-syntax-basics?index=product&queryID=c4adee3a957a2a2576d402110ade78b8&position=2&results_level=first-level-results&term=java&objectID=course-4383ff55-5943-4a5a-a538-06b09ac8742b&campaign=Introduction+to+Object-Oriented+Programming+with+Java+I%3A+Foundations+and+Syntax+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+   {
+      "id" :  80,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Fundamentals of C++"
+      "link" : "https://www.edx.org/learn/c-programming/ibm-fundamentals-of-c?index=product&queryID=f57ef4bbaa32f6bbccece48dc71765f3&position=1&results_level=first-level-results&term=c%2B%2B&objectID=course-251a4878-0711-4a8d-b1a4-38d96c032cc9&campaign=Fundamentals+of+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  81,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "UCDavis: JavaScript Basics"
+      "link" : "https://www.edx.org/learn/computer-science/university-of-california-davis-javascript-basics?index=product&objectID=course-adb941d2-fea9-4a35-8dfd-e2d7c8c48f61&webview=false&campaign=JavaScript+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fjavascript",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+    {
+      "id" :  82,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&queryID=ec3e9cf41c48384c46bb9688c9923b76&position=1&results_level=first-level-results&term=machine+learning+&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    },
   ]
 
