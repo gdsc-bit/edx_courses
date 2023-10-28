@@ -735,16 +735,16 @@
       "difficulty" : "advanced",
       "module_number" : 6,
       "certification" : "no"
-    },
-    {
+    }
+  {
       "id" :  75,
       "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : "HarvardX: Data Science: Machine Learning"
-      "link" : "https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning?index=product&queryID=1f346bece4416b421cf0abf4193d55f5&position=2&results_level=first-level-results&term=machine+learning+&objectID=course-7e5958e8-d709-41ab-8f8c-4339f7a733c9&campaign=Data+Science%3A+Machine+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
-      "difficulty" : "beginners",
-      "module_number" : 6,
-      "certification" : "free"
+      "free_course" : "no",
+      "course_name" : "University of Cape Town: Graphic Design"
+      "link" : "https://www.edx.org/boot-camps/cybersecurity/university-of-connecticut-cybersecurity-boot-camp?index=product&queryID=bb87cedf20afa62201f6acc5df5d3853&position=3&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "easy",
+      "module_number" : 10,
+      "certification" : "yes"
     }
   ]
 
