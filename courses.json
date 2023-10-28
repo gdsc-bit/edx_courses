@@ -743,7 +743,6 @@
       "difficulty" : "beginners",
       "module_number" : 6,
       "certification" : "free"
-    }
     },
     {
       "id" :  76,
@@ -759,8 +758,9 @@
       "id" :  77,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "IBM: Introduction to Linux System Administration with IBM Power Systems"
-      "link" :"https://www.edx.org/learn/linux/ibm-introduction-to-linux-system-administration-with-ibm-power-systems?index=product&objectID=course-b0bcb9ef-279e-48e0-b97c-86a2f217feea&webview=false&campaign=Introduction+to+Linux+System+Administration+with+IBM+Power+Systems&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Flinux",
+      "course_name" : "HarvardX: CS50's Introduction to Artificial Intelligence with Python"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?index=product&queryID=eacb84c9bd42332dab6f4deb14fc86ea&position=4&results_level=first-level-results&term=machine+learning+&objectID=course-3a31db71-de8f-45f1-ae65-11981ed9d680&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
       "module_number" : 6,
       "certification" : "free"
     }
@@ -783,19 +783,29 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    },
+    } 
    {
       "id" :  80,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "Fundamentals of C++"
-      "link" : "https://www.edx.org/learn/c-programming/ibm-fundamentals-of-c?index=product&queryID=f57ef4bbaa32f6bbccece48dc71765f3&position=1&results_level=first-level-results&term=c%2B%2B&objectID=course-251a4878-0711-4a8d-b1a4-38d96c032cc9&campaign=Fundamentals+of+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
-      "difficulty" : "beginner",
-      "module_number" : 8,
+      "course_name" : "IBM: Machine Learning with Python: A Practical Introduction"
+      "link" : "https://www.edx.org/learn/machine-learning/ibm-machine-learning-with-python-a-practical-introduction?index=product&queryID=381128daf40914278f3dd4a54a39b1b4&position=3&results_level=first-level-results&term=machine+learning+&objectID=course-34ea79ed-b0c4-4a12-aeb6-64a5b507607a&campaign=Machine+Learning+with+Python%3A+A+Practical+Introduction&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
       "certification" : "free"
+    }
+   {
+      "id" :  81,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Introduction to Computer Science and Programming"
+      "link" : "https://www.edx.org/learn/computer-science/tokyo-institute-of-technology-introduction-to-computer-science-and-programming?index=product&queryID=33c3455fa5b95cca7f77bb3c1f17f0b4&position=17&results_level=second-level-results&term=&objectID=course-b511fe62-03ca-4d35-83b2-3a6337929962&campaign=Introduction+to+Computer+Science+and+Programming&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 10,
+      "certification" : "paid"
     },
     {
-      "id" :  81,
+     "id" :  81,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "UCDavis: JavaScript Basics"
