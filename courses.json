@@ -715,8 +715,19 @@
       "module_number" : 6,
       "certification" : "free"
     }
-    {
+     {
       "id" :  73,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&queryID=ec3e9cf41c48384c46bb9688c9923b76&position=1&results_level=first-level-results&term=machine+learning+&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    },
+
+    {
+      "id" :  74,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : "University of Connecticut: Cybersecurity Boot Camp"
