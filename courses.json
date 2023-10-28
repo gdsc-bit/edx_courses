@@ -722,6 +722,30 @@
       "module_number" : 6,
       "certification" : "free"
     }
+  {
+      "id" :  74,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "TUMx: Six Sigma: Analyze, Improve, Control"
+      "link" : "https://www.edx.org/learn/six-sigma/technische-universitat-munchen-six-sigma-analyze-improve-control?index=product&queryID=4d93cd35b256ea75aabfe4f8cf4fae78&position=6&results_level=second-level-results&term=&objectID=course-50f33f6f-be42-43d2-9ccc-d5c5aedbf4fd&campaign=Six+Sigma%3A+Analyze%2C+Improve%2C+Control&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "advanced",
+      "module_number" : 6,
+      "certification" : "free"
+    
+  }
+  {
+      "id" :  75,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "DartmouthX, IMTx: C Programming: Getting Started"
+      "link" : "https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started?index=product&objectID=course-bb5e9463-0248-4f78-a337-b8bb9d829f2b&webview=false&campaign=C+Programming%3A+Getting+Started&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fc-programming",
+      "module_number" : 6,
+      "certification" : "free"
+    
+  }
+  
+  
+  
   
   ]
 
