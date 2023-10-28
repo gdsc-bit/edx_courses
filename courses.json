@@ -719,10 +719,10 @@
       "id" :  73,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "CS50's Introduction to Computer Science"
-      "link" : "edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=740ea9e8af68f63840770db70aefb4a7&position=1&results_level=first-level-results&term=cs50x&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "course_name" : "AWS: Industrial IoT Fundamentals on AWS"
+      "link" : "https://www.edx.org/learn/amazon-web-services-aws/amazon-web-services-industrial-iot-fundamentals-on-aws?index=product&queryID=4ba0d78c04841d77e01d98e2175ccdfa&position=19&results_level=second-level-results&term=iot&objectID=course-dcd83204-dbf4-4124-a09a-92c1ab3cedc7&campaign=Industrial+IoT+Fundamentals+on+AWS&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
       "difficulty" : "beginner",
-      "module_number" : 12,
+      "module_number" : 4,
       "certification" : "free"
     }
   
