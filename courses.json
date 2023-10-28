@@ -684,7 +684,7 @@
       "module_number" : 19,
       "certification" : "paid"
      }
-     {
+       {
       "id" :  70,
       "platform" : "edX",
       "free_course" : "yes",
@@ -694,7 +694,8 @@
       "module_number" : 5,
       "certification" : "paid"
      },
-     {
+
+    {
       "id" :  71,
       "platform" : "edX",
       "free_course" : "no",
@@ -704,7 +705,7 @@
       "module_number" : 6,
       "certification" : "paid"
     },
-    {
+   {
       "id" :  72,
       "platform" : "edX",
       "free_course" : "yes",
@@ -718,12 +719,13 @@
       "id" :  73,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "AWS: Industrial IoT Fundamentals on AWS"
-      "link" : "https://www.edx.org/learn/amazon-web-services-aws/amazon-web-services-industrial-iot-fundamentals-on-aws?index=product&queryID=4ba0d78c04841d77e01d98e2175ccdfa&position=19&results_level=second-level-results&term=iot&objectID=course-dcd83204-dbf4-4124-a09a-92c1ab3cedc7&campaign=Industrial+IoT+Fundamentals+on+AWS&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
-      "difficulty" : "beginner",
-      "module_number" : 4,
+      "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning"
+      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&queryID=ec3e9cf41c48384c46bb9688c9923b76&position=1&results_level=first-level-results&term=machine+learning+&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
       "certification" : "free"
-    }
+    },
+
     {
       "id" :  74,
       "platform" : "edX",
@@ -802,16 +804,14 @@
       "link" : "https://www.edx.org/learn/computer-science/university-of-california-davis-javascript-basics?index=product&objectID=course-adb941d2-fea9-4a35-8dfd-e2d7c8c48f61&webview=false&campaign=JavaScript+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fjavascript",
       "module_number" : 8,
       "certification" : "free"
-    },
-    {
-      "id" :  82,
+    }
+  {
+      "id" :  81,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning"
-      "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&queryID=ec3e9cf41c48384c46bb9688c9923b76&position=1&results_level=first-level-results&term=machine+learning+&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
-      "difficulty" : "beginners",
-      "module_number" : 6,
+      "course_name" : "edX: Try It: Intro to HTML"
+      "link" : "https://www.edx.org/learn/html/edx-try-it-intro-to-html?index=product&objectID=course-efd17f93-fbf5-4ec7-b911-42944b53b54a&webview=false&campaign=Try+It%3A+Intro+to+HTML&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fweb-development" : 8,
       "certification" : "free"
-    },
+    }
   ]
 
