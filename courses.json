@@ -766,15 +766,15 @@
       "module_number" : 6,
       "certification" : "free"
     }
-  {
+   {
       "id" :  78,
       "platform" : "edX",
       "free_course" : "yes",
-      "course_name" : "MIT Sloan School of Management: Artificial Intelligence in Health Care"
-      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-in-health-care?index=product&queryID=9ef83583f391dd8e905793c7e608a1bf&position=3&results_level=first-level-results&term=machine+learning+&objectID=course-ce3a934a-08ff-47da-823e-15f99cae32ef&campaign=Artificial+Intelligence+in+Health+Care&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "course_name" : "University of Cape Town: Graphic Design"
+      "link" : "https://www.edx.org/executive-education/university-of-cape-town-graphic-design?index=product&queryID=5c6c099e180e57e63259053c401605fd&position=1&linked_from=autocomplete&c=autocomplete",
       "difficulty" : "beginners",
-      "module_number" : 6,
-      "certification" : "free"
+      "module_number" : 10,
+      "certification" : "paid"
     }
   ]
 
