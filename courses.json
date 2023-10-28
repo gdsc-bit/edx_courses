@@ -745,7 +745,7 @@
       "difficulty" : "beginners",
       "module_number" : 6,
       "certification" : "free"
-    }
+    },
     {
       "id" :  76,
       "platform" : "edX",
@@ -776,5 +776,15 @@
       "module_number" : 10,
       "certification" : "paid"
     }
+    {
+      "id" :  79,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "GTx: Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics"
+      "link" : "https://www.edx.org/learn/java/the-georgia-institute-of-technology-introduction-to-object-oriented-programming-with-java-i-foundations-and-syntax-basics?index=product&queryID=c4adee3a957a2a2576d402110ade78b8&position=2&results_level=first-level-results&term=java&objectID=course-4383ff55-5943-4a5a-a538-06b09ac8742b&campaign=Introduction+to+Object-Oriented+Programming+with+Java+I%3A+Foundations+and+Syntax+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
   ]
 
