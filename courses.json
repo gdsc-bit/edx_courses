@@ -724,9 +724,20 @@
       "difficulty" : "beginners",
       "module_number" : 6,
       "certification" : "free"
-    }
+    },
+
     {
       "id" :  74,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "University of Connecticut: Cybersecurity Boot Camp"
+      "link" : "https://www.edx.org/boot-camps/cybersecurity/university-of-connecticut-cybersecurity-boot-camp?index=product&queryID=bb87cedf20afa62201f6acc5df5d3853&position=3&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "advanced",
+      "module_number" : 6,
+      "certification" : "no"
+    },
+    {
+      "id" :  75,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: Data Science: Machine Learning"
@@ -735,6 +746,5 @@
       "module_number" : 6,
       "certification" : "free"
     }
-  
   ]
 
