@@ -785,7 +785,7 @@
       "difficulty" : "beginner",
       "module_number" : 8,
       "certification" : "free"
-    } 
+    },
    {
       "id" :  80,
       "platform" : "edX",
@@ -794,6 +794,15 @@
       "link" : "https://www.edx.org/learn/machine-learning/ibm-machine-learning-with-python-a-practical-introduction?index=product&queryID=381128daf40914278f3dd4a54a39b1b4&position=3&results_level=first-level-results&term=machine+learning+&objectID=course-34ea79ed-b0c4-4a12-aeb6-64a5b507607a&campaign=Machine+Learning+with+Python%3A+A+Practical+Introduction&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
       "difficulty" : "beginners",
       "module_number" : 6,
+      "certification" : "free"
+    },
+    {
+      "id" :  81,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "UCDavis: JavaScript Basics"
+      "link" : "https://www.edx.org/learn/computer-science/university-of-california-davis-javascript-basics?index=product&objectID=course-adb941d2-fea9-4a35-8dfd-e2d7c8c48f61&webview=false&campaign=JavaScript+Basics&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fjavascript",
+      "module_number" : 8,
       "certification" : "free"
     }
   ]
