@@ -813,5 +813,15 @@
       "module_number" : 6,
       "certification" : "free"
     },
+    {
+      "id" :  83,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "RaspberryPiFoundation: An Introduction to Computer Networking for Teachers"
+      "link" : "https://www.edx.org/learn/computer-programming/raspberry-pi-foundation-an-introduction-to-computer-networking-for-teachers?index=product&queryID=f5a4a0f672b3270d6cdc3df350bf24a4&position=8&results_level=second-level-results&term=networking&objectID=course-3f979ab9-13b0-418d-8266-36cf01c1cec3&campaign=An+Introduction+to+Computer+Networking+for+Teachers&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 3,
+      "certification" : "free"
+    },
   ]
 
