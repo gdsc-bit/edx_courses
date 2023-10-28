@@ -741,17 +741,19 @@
       "link" : "https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started?index=product&objectID=course-bb5e9463-0248-4f78-a337-b8bb9d829f2b&webview=false&campaign=C+Programming%3A+Getting+Started&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fc-programming",
       "module_number" : 6,
       "certification" : "free"
-    
-  }
+  },
   {
       "id" :  76,
       "platform" : "edX",
-      "free_course" : "yes",
-      "course_name" : "IITBombayX: Foundations of Data Structures"
-      "link" : "https://www.edx.org/learn/data-structures/iitbombay-foundations-of-data-structures?index=product&objectID=course-49da3125-a471-4615-b9fe-693f045f8d38&webview=false&campaign=Foundations+of+Data+Structures&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdata-structures" : 6,
-      "certification" : "free"
-    
-  }
+      "free_course" : "Yes",
+      "course_name" : " IBM: Data Structures & Algorithms Using C++"
+      "link" : "https://www.edx.org/learn/data-structures/ibm-data-structures-algorithms-using-c?index=product&objectID=course-c50fcb0f-b0c2-4feb-b467-facb248ea3da&webview=false&campaign=Data+Structures+%26+Algorithms+Using++C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdata-structures",
+      "module_number" : 8,
+      "certification" : "paid"
+    },
+  
+  
+
   
   
   
