@@ -714,6 +714,15 @@
       "module_number" : 6,
       "certification" : "free"
     }
+  {
+      "id" :  73,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "LinuxFoundationX, UPValenciaX: Introducción a Linux"
+      "link" : "https://www.edx.org/learn/linux/the-linux-foundation-introduccion-a-linux?index=product&objectID=course-9efb5a34-0460-4fb3-b08d-9b0f7392765c&webview=false&campaign=Introducci%C3%B3n+a+Linux&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Flinux",
+      "module_number" : 6,
+      "certification" : "free"
+    }
   
   ]
 
