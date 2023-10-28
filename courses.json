@@ -414,5 +414,15 @@
       "module_number" : 8,
       "certification" : "free"
     },
+   {
+      "id" :  43,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "MIT Sloan School of Management: Artificial Intelligence: Implications for Business Strategy"
+      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?linked_from=autocomplete-prequery&c=autocomplete-prequery&position=1",
+      "difficulty" : "beginner",
+      "module_number" : 5,
+      "certification" : "free"
+    },
   ]
 
