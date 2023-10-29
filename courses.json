@@ -998,5 +998,13 @@
       "module_number" : 12,
       "certification" : "free"
     },
-  ]
-
+   {
+      "id" :  98,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Sustainable Business Strategy"
+      "link" : "https://online.hbs.edu/courses/sustainable-business-strategy/",
+      "difficulty" : "difficult",
+      "module_number" : 3,
+      "certification" : "paid"
+    },
