@@ -823,5 +823,17 @@
       "module_number" : 3,
       "certification" : "free"
     },
+    {
+      "id" :  84,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "EC-Council: Network Defense Essentials (NDE)"
+      "link" : "https://www.edx.org/learn/network-security/ec-council-network-defense-essentials-nde?index=product&queryID=15dbf2386f213aba44fdfc65fedd426b&position=10&results_level=second-level-results&term=iot&objectID=course-198e2ad5-3673-4638-910c-153caeb0dc52&campaign=Network+Defense+Essentials+%28NDE%29&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "difficult",
+      "module_number" : 12,
+      "certification" : "free"
+    },
+    
+    
   ]
 
