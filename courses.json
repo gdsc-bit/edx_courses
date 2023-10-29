@@ -948,5 +948,15 @@
       "module_number" : 12,
       "certification" : "free"
     },
+    {
+      "id" :  94,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "edX: MIT AI Implications for buissness startergy"
+      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?webview=false&campaign=Artificial+Intelligence%3A+Implications+for+Business+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "free"
+    },
   ]
 
