@@ -958,5 +958,15 @@
       "module_number" : 6,
       "certification" : "free"
     },
+    {
+      "id" :  95,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Python basics for data science"
+      "link" : "https://www.edx.org/learn/python/ibm-python-basics-for-data-science?index=product&queryID=638606c29cdfbe7e7cf844553107fe7a&position=2&results_level=first-level-results&term=&objectID=course-381a0046-5d78-4790-8776-74620d59f48e&campaign=Python+Basics+for+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 3,
+      "certification" : "free"
+    },
   ]
 
