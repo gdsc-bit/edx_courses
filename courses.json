@@ -968,5 +968,15 @@
       "module_number" : 3,
       "certification" : "free"
     },
+    {
+      "id" :  96,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Web Programming with Python and JavaScript"
+      "link" : "https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript?index=product&queryID=419cfaaa290c9ea764dc9027b0355350&position=4&results_level=first-level-results&term=&objectID=course-8f8e5124-1dab-47e6-8fa6-3fbdc0738f0a&campaign=CS50%27s+Web+Programming+with+Python+and+JavaScript&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 12,
+      "certification" : "free"
+    },
   ]
 
