@@ -878,12 +878,22 @@
       "module_number" : 3,
       "certification" : "free"
     },
-  {
+    {
       "id" :  89,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: Remote Work Revolution for Everyone"
       "link" : "https://www.edx.org/learn/remote-work/harvard-university-remote-work-revolution-for-everyone?index=product&queryID=80d5fd6e64957d78eb92dc305174a09b&position=3&results_level=first-level-results&term=&objectID=course-4d67e5fe-1f51-4f7c-a523-d545cc87fc78&campaign=Remote+Work+Revolution+for+Everyone&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    },  
+    {
+      "id" :  90,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=b2910167e513d7ad6d3a0d40bb60dc3c&position=1&results_level=first-level-results&term=&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
       "difficulty" : "beginners",
       "module_number" : 6,
       "certification" : "free"
