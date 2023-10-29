@@ -939,7 +939,7 @@
       "certification" : "free"
     },
     {
-      "id" :  93,
+      "id" :  95,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "HarvardX: CS50's Introduction to Artificial Intelligence with Python"
@@ -949,7 +949,17 @@
       "certification" : "free"
     },
     {
-      "id" :  94,
+      "id" :  96,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "LinuxFoundationX: Blockchain: Understanding Its Uses and Implications"
+      "link" : "https://www.edx.org/learn/blockchain/the-linux-foundation-blockchain-understanding-its-uses-and-implications?index=product&objectID=course-0d30c44e-1ae3-4141-bf43-fa7bfc20d2c0&webview=false&campaign=Blockchain%3A+Understanding+Its+Uses+and+Implications&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fblockchain",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    },
+    {
+      "id" :  97,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "edX: MIT AI Implications for buissness startergy"
@@ -959,7 +969,7 @@
       "certification" : "free"
     },
     {
-      "id" :  95,
+      "id" :  98,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "IBM: Python basics for data science"
