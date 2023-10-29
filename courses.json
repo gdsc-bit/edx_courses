@@ -908,5 +908,15 @@
       "module_number" : 3,
       "certification" : "free"
     },
+  {
+      "id" :  92,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "University of Minnesota: Coding Boot Camp"
+      "link" : "https://www.edx.org/boot-camps/coding/university-of-minnesota-coding-boot-camp?webview=false&campaign=Coding+Boot+Camp&source=2u&product_category=boot-camp&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fsoftware-engineering",
+      "difficulty" : "beginners",
+      "module_number" : 3,
+      "certification" : "free"
+    },
   ]
 
