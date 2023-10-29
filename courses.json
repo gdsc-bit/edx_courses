@@ -878,5 +878,15 @@
       "module_number" : 3,
       "certification" : "free"
     },
+   {
+      "id" :  89,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=b2910167e513d7ad6d3a0d40bb60dc3c&position=1&results_level=first-level-results&term=&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 6,
+      "certification" : "free"
+    },
   ]
 
