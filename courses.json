@@ -1018,5 +1018,25 @@
    "module_number" : 12,
    "certification" : "paid",
   }
+    {
+   "id" : 99,
+   "paltform" : "edX",
+   "free_course" : "free",
+   "course_name" : "HarvardX: Exercising Leadership: Foundational Principles",
+   "link" : "https://www.edx.org/learn/leadership/harvard-university-exercising-leadership-foundational-principles?index=product&queryID=cd8b57797468c553580eb88553b31b96&position=1&results_level=first-level-results&term=Exercising+Leadership%3A+Foundational+Principles&objectID=course-6774d438-134f-4d20-95a2-ea763f59ff23&campaign=Exercising+Leadership%3A+Foundational+Principles&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   "module_number" : 3,
+   "certification" : "paid",
+  }
+   {
+   "id" : 100,
+   "paltform" : "edX",
+   "free_course" : "free",
+   "course_name" : "HarvardX: Rhetoric: The Art of Persuasive Writing and Public Speaking",
+   "link" : "https://www.edx.org/learn/rhetoric/harvard-university-rhetoric-the-art-of-persuasive-writing-and-public-speaking?index=product&queryID=555f2d04cddbba3d251436f90d676e31&position=4&results_level=first-level-results&term=harvard&objectID=course-941c1967-d0ee-49bc-b3c5-e6ccf4681f2a&campaign=Rhetoric%3A+The+Art+of+Persuasive+Writing+and+Public+Speaking&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   "module_number" : 6,
+   "certification" : "paid",
+  }
    
   ]
