@@ -928,5 +928,15 @@
       "module_number" : 5,
       "certification" : "free"
     },
+  {
+      "id" :  94,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "HarvardX: CS50's Introduction to Artificial Intelligence with Python"
+      "link" : "https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?index=product&queryID=b2910167e513d7ad6d3a0d40bb60dc3c&position=3&results_level=first-level-results&term=&objectID=course-3a31db71-de8f-45f1-ae65-11981ed9d680&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginners",
+      "module_number" : 12,
+      "certification" : "free"
+    },
   ]
 
