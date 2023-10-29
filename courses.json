@@ -898,5 +898,15 @@
       "module_number" : 6,
       "certification" : "free"
     },
+    {
+      "id" :  91,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "IBM: Guided Project: Web Development w/ HTML & CSS for Beginners"
+      "link" : "https://www.edx.org/learn/web-development/ibm-guided-project-web-development-w-html-css-for-beginners?index=product&objectID=course-97fd66b6-810d-4b96-a735-e95f13be0b6d&webview=false&campaign=Guided+Project%3A+Web+Development+w%2F+HTML+%26+CSS+for+Beginners&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fweb-development",
+      "difficulty" : "beginners",
+      "module_number" : 3,
+      "certification" : "free"
+    },
   ]
 
