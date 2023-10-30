@@ -1178,12 +1178,13 @@
    "module_number" : 9,
    "certification" : "paid",
   }
-   {
+  {
    "id" : 115,
    "paltform" : "edX",
    "free_course" : "paid",
-   "course_name" : " Full Stack Application Development",
-   "link" : "https://www.edx.org/bachelors/microbachelors/ibm-full-stack-application-development?index=product&queryID=a0bde4d9ba26ccc391ac2a6630d88446&position=3&results_level=first-level-results&term=djang&objectID=program-c9510b80-47bd-466d-99e0-b419e8d2d7c1&campaign=Full+Stack+Application+Development&source=edX&product_category=microbachelors&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "course_name" : "UTAustinX: Discovery Precalculus: A Creative and Connected Approach",
+   "link" : "https://www.edx.org/learn/pre-calculus/the-university-of-texas-at-austin-discovery-precalculus-a-creative-and-connected-approach?index=product&queryID=8f7b00c834222212962bc33a1ef7876c&position=1&results_level=first-level-results&term=pascal&objectID=course-e21976ef-688f-4b94-9262-06ebf7451037&campaign=Discovery+Precalculus%3A+A+Creative+and+Connected+Approach&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
    "module_number" : 9,
    "certification" : "paid",
   }
@@ -1205,11 +1206,20 @@
    "certification" : "paid",
   }
   {
-   "id" : 116,
+   "id" : 118,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "IBM: Data Visualization and Building Dashboards with Excel and Cognos",
    "link" : "https://www.edx.org/learn/data-visualization/ibm-data-visualization-and-building-dashboards-with-excel-and-cognos?index=product&queryID=e78947e762e2bee1e9a11664ec4cf9ff&position=5&results_level=second-level-results&term=&objectID=course-fa4317f9-e35c-4c7a-b5ef-a14afa1b356d&campaign=Data+Visualization+and+Building+Dashboards+with+Excel+and+Cognos&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
    "difficulty" : "beginner",
    }
+   {
+   "id" : 119,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "MIT Sloan School of Management: Artificial Intelligence: Implications for Business Strategy",
+   "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?webview=false&campaign=Artificial+Intelligence%3A+Implications+for+Business+Strategy&source=2u&product_category=executive-education&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fartificial-intelligence"
+   "module_number" : 69,
+   "certification" : "paid",
+  }
  ]
