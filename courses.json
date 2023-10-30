@@ -1119,4 +1119,14 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 109,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "LinuxFoundationX: Open Source Software Development: Linux for Developers",
+   "link" : "https://www.edx.org/learn/linux/the-linux-foundation-open-source-software-development-linux-for-developers?index=product&queryID=ce93653bc867befd988ea0aa9f352f48&position=3&linked_from=autocomplete&c=autocomplete"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+  }
   ]
