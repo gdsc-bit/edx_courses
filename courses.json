@@ -1037,9 +1037,50 @@
    "difficulty" : "beginner",
    "module_number" : 6,
    "certification" : "paid",
-  }
-   {
-   "id" : 101,
+   },
+  {
+      "id" :  101,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "Fundamentals of C++"
+      "link" : "https://www.edx.org/learn/c-programming/ibm-fundamentals-of-c?index=product&queryID=f57ef4bbaa32f6bbccece48dc71765f3&position=1&results_level=first-level-results&term=c%2B%2B&objectID=course-251a4878-0711-4a8d-b1a4-38d96c032cc9&campaign=Fundamentals+of+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
+    },
+  {
+      "id" :  102,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "HarvardX: CS50's Introduction to Computer Science"
+      "link" : "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science",
+      "difficulty" : "beginner",
+      "module_number" : 6,
+      "certification" : "paid"
+    },
+    {
+      "id" :  103,
+      "platform" : "edX",
+      "free_course" : "yes",
+      "course_name" : "TUMx: Six Sigma: Analyze, Improve, Control"
+      "link" : "https://www.edx.org/learn/six-sigma/technische-universitat-munchen-six-sigma-analyze-improve-control?index=product&queryID=4d93cd35b256ea75aabfe4f8cf4fae78&position=6&results_level=second-level-results&term=&objectID=course-50f33f6f-be42-43d2-9ccc-d5c5aedbf4fd&campaign=Six+Sigma%3A+Analyze%2C+Improve%2C+Control&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch",
+      "difficulty" : "advanced",
+      "module_number" : 6,
+      "certification" : "free"
+  },
+  {
+      "id" :  104,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "NUS: Natural Language Processing: Foundations"
+      "link" : "https://www.edx.org/learn/natural-language-processing/the-national-university-of-singapore-natural-language-processing-foundations?index=product&queryID=be55a7c502c94489203fd6b911f3d5b4&position=3&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 19,
+      "certification" : "paid"
+     },
+
+ {
+   "id" : 105,
    "paltform" : "edX",
    "free_course" : "free",
    "course_name" : "HarvardX: Technology Entrepreneurship: Lab to Market",
@@ -1049,7 +1090,7 @@
    "certification" : "paid",
   }
    {
-   "id" : 102,
+   "id" : 106,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "Data Science",
@@ -1058,5 +1099,4 @@
    "module_number" : 9,
    "certification" : "paid",
   }
-   
   ]
