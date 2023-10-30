@@ -1149,4 +1149,13 @@
    "module_number" : 9,
    "certification" : "paid",
 }
+  "id" : 112,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "HKUSTx: Introduction to Java Programming",
+   "link" : "https://www.edx.org/learn/java/the-hong-kong-university-of-science-and-technology-introduction-to-java-programming-part-1?index=product&queryID=6ef89fed67ec03f379f61f521822d54c&position=1&results_level=first-level-results&term=java&objectID=course-ef4d812a-d160-4f21-bf8d-48bbb8deadfa&campaign=Introduction+to+Java+Programming+%E2%80%93+Part+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+}
   ]
