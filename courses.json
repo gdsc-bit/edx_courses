@@ -1204,4 +1204,13 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 115,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning",
+   "link" : "https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning?index=product&objectID=course-4c70ad9b-9602-49af-bf00-83fa4bf47708&webview=false&campaign=Machine+Learning+with+Python%3A+from+Linear+Models+to+Deep+Learning&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fmachine-learning"
+   "module_number" : 79,
+   "certification" : "paid",
+  }
  ]
