@@ -1187,8 +1187,16 @@
    "module_number" : 9,
    "certification" : "paid",
   }
-    {
-     "id" : 117,
+   {
+   "id" : 116,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "IBM: Introduction to SQL",
+   "link" : "https://www.edx.org/learn/sql/ibm-introduction-to-sql?index=product&queryID=81ad6b5924fba289d8feed99e1cbbfdc&position=1&results_level=first-level-results&term=sql&objectID=course-58977d3a-894b-45bb-9d5a-2dbbb5031163&campaign=Introduction+to+SQL&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   }
+  {
+   "id" : 117,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "LSE: Machine Learning: Practical Applications",
