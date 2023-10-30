@@ -1129,4 +1129,14 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 110,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "IBM: Full Stack Application Development Project",
+   "link" : "https://www.edx.org/learn/full-stack-development/ibm-full-stack-application-development-project?index=product&queryID=5e739dac4ee50eb139fd3494159d02bd&position=1&linked_from=autocomplete&c=autocomplete"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+  }
   ]
