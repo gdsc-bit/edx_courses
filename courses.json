@@ -29,6 +29,16 @@
       "difficulty" : "beginner",
       "module_number" : 6,
       "certification" : "free"
+    },
+    {
+      "id" :  4,
+      "platform" : "edX",
+      "free_course" : "no",
+      "course_name" : "MIT Sloan School of Management: Blockchain and Crypto Applications: From Decentralized Finance to Web 3"
+      "link" : "https://www.edx.org/executive-education/massachusetts-institute-of-technology-blockchain-and-crypto-applications-from-decentralized-finance-to-web-3?index=product&queryID=287b5c985799254d1b20fe269dd1bbfb&position=2&linked_from=autocomplete&c=autocomplete",
+      "difficulty" : "beginner",
+      "module_number" : 8,
+      "certification" : "free"
     }
     
     
