@@ -1169,6 +1169,7 @@
    "module_number" : 9,
    "certification" : "paid",
 }
+{
   "id" : 112,
    "paltform" : "edX",
    "free_course" : "paid",
@@ -1228,13 +1229,22 @@
   {
    "id" : 118,
    "paltform" : "edX",
+   "free_course" : "yes",
+   "course_name" : "Microsoft: Introduction to C++",
+   "link" : "https://www.edx.org/learn/c-plus-plus/microsoft-introduction-to-c?index=product&objectID=course-72abaeb3-0856-4e89-906a-8b6eef402a1f&webview=false&campaign=Introduction+to+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fc-programming",
+   "difficulty":"beginner",
+   "certification":"paid",
+  }
+  {
+   "id" : 119,
+   "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "IBM: Data Visualization and Building Dashboards with Excel and Cognos",
    "link" : "https://www.edx.org/learn/data-visualization/ibm-data-visualization-and-building-dashboards-with-excel-and-cognos?index=product&queryID=e78947e762e2bee1e9a11664ec4cf9ff&position=5&results_level=second-level-results&term=&objectID=course-fa4317f9-e35c-4c7a-b5ef-a14afa1b356d&campaign=Data+Visualization+and+Building+Dashboards+with+Excel+and+Cognos&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
    "difficulty" : "beginner",
    }
    {
-   "id" : 119,
+   "id" : 120,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "MIT Sloan School of Management: Artificial Intelligence: Implications for Business Strategy",
@@ -1243,7 +1253,7 @@
    "certification" : "paid",
   }
   {
-   "id" : 115,
+   "id" : 121,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "MITx: Machine Learning with Python: from Linear Models to Deep Learning",
