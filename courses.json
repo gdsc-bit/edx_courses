@@ -1205,8 +1205,16 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 118,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "IBM: Data Visualization and Building Dashboards with Excel and Cognos",
+   "link" : "https://www.edx.org/learn/data-visualization/ibm-data-visualization-and-building-dashboards-with-excel-and-cognos?index=product&queryID=e78947e762e2bee1e9a11664ec4cf9ff&position=5&results_level=second-level-results&term=&objectID=course-fa4317f9-e35c-4c7a-b5ef-a14afa1b356d&campaign=Data+Visualization+and+Building+Dashboards+with+Excel+and+Cognos&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   }
    {
-   "id" : 117,
+   "id" : 119,
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "MIT Sloan School of Management: Artificial Intelligence: Implications for Business Strategy",
