@@ -1037,7 +1037,7 @@
    "difficulty" : "beginner",
    "module_number" : 6,
    "certification" : "paid",
-  },
+   },
   {
       "id" :  101,
       "platform" : "edX",
@@ -1058,8 +1058,8 @@
       "module_number" : 6,
       "certification" : "paid"
     },
-  {
-  "id" :  103,
+    {
+      "id" :  103,
       "platform" : "edX",
       "free_course" : "yes",
       "course_name" : "TUMx: Six Sigma: Analyze, Improve, Control"
@@ -1069,7 +1069,7 @@
       "certification" : "free"
   },
   {
-      "id" :  69,
+      "id" :  104,
       "platform" : "edX",
       "free_course" : "no",
       "course_name" : "NUS: Natural Language Processing: Foundations"
@@ -1078,6 +1078,25 @@
       "module_number" : 19,
       "certification" : "paid"
      },
-  
-   
+
+ {
+   "id" : 105,
+   "paltform" : "edX",
+   "free_course" : "free",
+   "course_name" : "HarvardX: Technology Entrepreneurship: Lab to Market",
+   "link" : "https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market?index=product&queryID=cf6eabc9a31c43e4f7881f39d285c76e&position=1&results_level=first-level-results&term=technology+Entrepreneurship%3A+Lab+to+Market&objectID=course-896ef47f-237f-47aa-a993-2beff9752254&campaign=Technology+Entrepreneurship%3A+Lab+to+Market&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "difficulty" : "beginner",
+   "module_number" : 5,
+   "certification" : "paid",
+  }
+   {
+   "id" : 106,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "Data Science",
+   "link" : "https://www.edx.org/certificates/professional-certificate/harvardx-data-science?index=product&objectID=program-3c32e3e0-b6fe-4ee4-bd4f-210c6339e074&webview=false&campaign=Data++Science&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fdata-analysis"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+  }
   ]
