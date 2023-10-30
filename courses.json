@@ -1144,8 +1144,9 @@
    "paltform" : "edX",
    "free_course" : "paid",
    "course_name" : "Object Oriented Implementation Using C++",
-   "link" : https://www.edx.org/learn/object-oriented-programming/ibm-object-oriented-implementation-using-c?index=product&queryID=df4bd39e3e7346e3ee36e62c113e6599&position=4&results_level=first-level-results&term=c%2B%2B&objectID=course-2d83311b-163c-4829-b6f3-a7085dda90b9&campaign=Object+Oriented+Implementation+Using+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
+   "link" :" https://www.edx.org/learn/object-oriented-programming/ibm-object-oriented-implementation-using-c?index=product&queryID=df4bd39e3e7346e3ee36e62c113e6599&position=4&results_level=first-level-results&term=c%2B%2B&objectID=course-2d83311b-163c-4829-b6f3-a7085dda90b9&campaign=Object+Oriented+Implementation+Using+C%2B%2B&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch"
    "difficulty" : "beginner",
    "module_number" : 9,
    "certification" : "paid",
+}
   ]
