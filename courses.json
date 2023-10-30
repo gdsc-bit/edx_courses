@@ -1109,4 +1109,14 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 108,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "IBM: Guided Project: Get Started with MongoDB CRUD Operations",
+   "link" : "https://www.edx.org/learn/mongodb/ibm-guided-project-get-started-with-mongodb-crud-operations?index=product&queryID=4bff2cdb83d0dc7124ece89dbe7ddc09&position=1&linked_from=autocomplete&c=autocomplete"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+  }
   ]
