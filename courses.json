@@ -1187,4 +1187,13 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+    {
+     "id" : 117,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "LSE: Machine Learning: Practical Applications",
+   "link" : "https://www.edx.org/executive-education/the-london-school-of-economics-and-political-science-machine-learning-practical-applications?index=product&queryID=6aab7dcd672647ff478db72ee036a8cc&position=1&linked_from=autocomplete&c=autocomplete"
+   "module_number" : 9,
+   "certification" : "paid",
+  }
  ]
