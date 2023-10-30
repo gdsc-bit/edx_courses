@@ -1178,4 +1178,13 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+   {
+   "id" : 115,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : " Full Stack Application Development",
+   "link" : "https://www.edx.org/bachelors/microbachelors/ibm-full-stack-application-development?index=product&queryID=a0bde4d9ba26ccc391ac2a6630d88446&position=3&results_level=first-level-results&term=djang&objectID=program-c9510b80-47bd-466d-99e0-b419e8d2d7c1&campaign=Full+Stack+Application+Development&source=edX&product_category=microbachelors&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+   "module_number" : 9,
+   "certification" : "paid",
+  }
  ]
