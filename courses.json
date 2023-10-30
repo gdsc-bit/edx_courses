@@ -1099,4 +1099,14 @@
    "module_number" : 9,
    "certification" : "paid",
   }
+  {
+   "id" : 107,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "Oxford Saïd: Oxford Artificial Intelligence Programme",
+   "link" : "https://www.edx.org/executive-education/university-of-oxford-oxford-artificial-intelligence-programme?index=product&queryID=91e43bd368a8e655d9ab19a9c3d9ad21&position=2&linked_from=autocomplete&c=autocomplete"
+   "difficulty" : "beginner",
+   "module_number" : 9,
+   "certification" : "paid",
+  }
   ]
