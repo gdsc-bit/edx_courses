@@ -1283,4 +1283,14 @@
    "module_number" : 79,
    "certification" : "paid",
   }
+  {
+   "id" : 122,
+   "paltform" : "edX",
+   "free_course" : "paid",
+   "course_name" : "Learn how to trade using technical analysis",
+   "link" : "https://www.edx.org/certificates/professional-certificate/nyif-introduction-to-trading-with-technical-analysis?webview=false&campaign=Introduction+to+Trading+with+Technical+Analysis&source=edx&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fcertificates%2Fprofessional-certificate"
+   "module_number" : 3,
+   "certification" : "paid",
+  }
  ]
+ 
